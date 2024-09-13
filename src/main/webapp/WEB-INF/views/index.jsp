@@ -9,5 +9,6 @@
 <br/>
 <a href="outcome">outcome</a>
 <a href="asset">asset</a>
+<a href="installment-savings">installment-savings</a>
 </body>
 </html>

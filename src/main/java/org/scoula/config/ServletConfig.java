@@ -17,7 +17,9 @@ import org.springframework.web.servlet.view.JstlView;
         "org.scoula.exception",
         "org.scoula.outcome",
         "org.scoula.asset",
-        "org.scoula.test"
+        "org.scoula.service",
+        "org.scoula.vo",
+        "org.scoula.dto"
 //        "org.scoula.board.controller",
 //        "org.scoula.board.service",
 
